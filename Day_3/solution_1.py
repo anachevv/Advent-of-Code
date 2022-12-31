@@ -62,3 +62,5 @@ for letter in common_letters:
         total_sum += letters[letter.lower()] + 26
 
 print(total_sum)
+
+file.close()

@@ -58,3 +58,5 @@ for lst in common_letters:
 
 
 print(total_sum)
+
+file.close()
