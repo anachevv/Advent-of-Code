@@ -66,3 +66,5 @@ def read_one(my_points):
 
 
 print(read_one(my_points))
+
+file.close()

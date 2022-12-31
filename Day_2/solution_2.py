@@ -53,3 +53,5 @@ def read_two(my_points):
 
 
 print(read_two(my_points))
+
+file.close()
