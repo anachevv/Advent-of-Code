@@ -69,3 +69,5 @@ print(current_calories)
 
 # Part 2
 print(sum(current_calories[0:3]))
+
+file.close()
